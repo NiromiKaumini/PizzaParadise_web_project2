@@ -194,3 +194,93 @@ header {
     max-width: 800px;
     margin-bottom: 20px;
 }
+.heading{
+    text-align: center;
+    font-size: 1.8rem;
+    text-transform: lowercase;
+}
+.contener {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1.5rem;
+    margin-top: 10px;
+}
+.contener .box .content{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.contener .box .content span{
+    padding: 0 1rem;
+    
+}
+.contener .box .content a{
+    padding: 0 1rem;
+    color: rgb(248, 248, 248);
+    border: #fff;
+    border-radius: 1rem;
+    box-shadow: #585454;
+   
+}
+.contener .box .content a:hover{
+    background:#f10303;
+    color: #f7f1f1;
+}
+.contener .box {
+    position: relative; 
+    padding: 0; /* Removed padding to fit the image exactly */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 0.5rem;  
+    transition: transform 0.3s;
+    overflow: hidden; /* Ensures image fits within the box */
+}
+
+.contener .box:hover {
+    background-color: var(--box-shadow);
+    transform: scale(105%);
+    transition:  background-color linear, transform linear;
+    ;
+
+}
+
+.contener img {
+    width: 500px; /* Makes the image take up the full width of the box */
+    height: 300px; /* Maintains aspect ratio */
+    object-fit: contain;
+    object-position: center;
+    border-radius: 0.5rem 0.5rem 0 0; /* Rounds the top corners */
+}
+.cuscontener{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 3rem;
+    margin-top: 2rem;
+}
+.cuscontener .box{
+    padding: 10px;
+    
+    border-radius: 1rem;
+    text-align: center;
+    cursor: pointer;
+
+}
+.customer h1{
+    font-size: 40px;
+}
+.customer .box img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+
+}
+.customer .box .stars .bx:hover{
+    transform: translateY(-5px);
+    box-shadow: var(--box-shadow);
+}
+.stars .bx{
+    color: rgb(57, 40, 214);
+    size: 1rem;
+}
