@@ -284,3 +284,68 @@ header {
     color: rgb(57, 40, 214);
     size: 1rem;
 }
+@media (max-width: 1058px) {
+    header {
+        padding: 16px 60px;
+    }
+    section {
+        padding: 50px 60px;
+    }
+    .hometext h1 {
+        font-size: 18px;
+        text-align: center;
+    }
+    .hometext h3 {
+        font-size: 15px;
+        text-align: center;
+    }
+    .contener {
+        grid-template-columns: 1fr 1fr;
+    }
+    .cuscontener {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (max-width: 768px) {
+    header {
+        padding: 16px 20px;
+    }
+    .hometext h1 {
+        font-size: 18px;
+        text-align: center;
+    }
+    .hometext h3 {
+        font-size: 15px;
+        text-align: center;
+    }
+    .contener {
+        grid-template-columns: 1fr;
+    }
+    .cuscontener {
+        grid-template-columns: 1fr;
+    }
+    .logo img {
+        width: 80px;
+    }
+    .navbar li a {
+        font-size: 14px;
+    }
+    .header-icone i {
+        font-size: 24px;
+    }
+}
+    .header-icone i {
+        font-size: 24px;
+    }
+
+@media(max-width:463px){
+    .hometext h1 {
+        font-size: 15px;
+        text-align: center;
+    }
+    .hometext h3 {
+        font-size: 10px;
+        text-align: center;
+    }
+}
