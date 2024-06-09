@@ -15,7 +15,6 @@
 </p>
 <h2>Visual</h2>
 ![home](https://github.com/NiromiKaumini/PizzaParadise_web_project2/assets/138492534/a69908b0-57ab-47c3-8798-d4fd3828aed9)
-![menu](https://github.com/NiromiKaumini/PizzaParadise_web_project2/assets/138492534/6a8d26e4-76f1-40f9-b46c-900cd9286865)
-![login](https://github.com/NiromiKaumini/PizzaParadise_web_project2/assets/138492534/28ddfd19-965d-48f9-92d3-0065e1b0ba9f)
+
 
 
