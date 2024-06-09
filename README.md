@@ -17,4 +17,5 @@
 ![home](https://github.com/NiromiKaumini/PizzaParadise_web_project2/assets/138492534/a69908b0-57ab-47c3-8798-d4fd3828aed9)
 
 
+![menu](https://github.com/NiromiKaumini/PizzaParadise_web_project2/assets/138492534/a580f5e8-235b-4da2-938b-411e87dac9f6)
 
