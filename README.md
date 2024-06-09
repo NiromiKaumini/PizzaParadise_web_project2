@@ -14,8 +14,11 @@
     <li>Boxicons (for icons)</li>
 </p>
 <h2>Visual</h2>
-![home](https://github.com/NiromiKaumini/PizzaParadise_web_project2/assets/138492534/a69908b0-57ab-47c3-8798-d4fd3828aed9)
+
+![home](https://github.com/NiromiKaumini/PizzaParadise_web_project2/assets/138492534/46fa1ca5-3a8f-4204-abfa-e7d70d7846c1)
+
+![menu](https://github.com/NiromiKaumini/PizzaParadise_web_project2/assets/138492534/a580f5e8-235b-4da2-938b-411e87dac9f6)  
 
 
-![menu](https://github.com/NiromiKaumini/PizzaParadise_web_project2/assets/138492534/a580f5e8-235b-4da2-938b-411e87dac9f6)
+![login](https://github.com/NiromiKaumini/PizzaParadise_web_project2/assets/138492534/9412dbe5-14ae-4ab0-8ced-b1858e278138)
 
